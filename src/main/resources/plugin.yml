@@ -1,0 +1,12 @@
+name: EasyXP
+main: com.lemonpup.easyxp.EasyXP
+version: 0.0.3
+commands:
+  exphelp:
+   description: explains EasyXP's bottling capability
+   usage: /command
+   permission: EasyXP.exphelp
+  expversion:
+   description: version and developer info
+   usage: /command
+   permission: EasyXP.expversion
